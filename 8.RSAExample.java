@@ -1,4 +1,9 @@
-
+/*
+	EXP:8
+	T.R.Sai Kumari
+	23K61A05H7
+	25/03/26
+*/
 import java.math.BigInteger;
 import java.util.Scanner;
 public class RSAExample{
