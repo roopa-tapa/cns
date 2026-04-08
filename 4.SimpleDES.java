@@ -1,3 +1,9 @@
+/*
+	EXP:4
+	T.R.Sai Kumari
+	23K61A05H7
+	04/02/26
+*/
 public class SimpleDES{
 	static int[] xor(int[] a, int[] b){
 		int[] r=new int[a.length];
