@@ -1,3 +1,9 @@
+/*
+	EXP:3c
+	T.R.Sai Kumari
+	23K61A05H7
+	28/01/26
+*/
 import java.util.Scanner;
 public class HillCipher {
 	public static void main(String[] args) {
